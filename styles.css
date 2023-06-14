@@ -156,6 +156,7 @@ nav > div {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+    background: #ea529f;
 }
 
 strong{
@@ -180,6 +181,7 @@ strong{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+   background:#f5e45a;
 }
 
 .col-3 {
@@ -188,6 +190,7 @@ strong{
   display: flex;
   flex-direction: column;
   justify-content: center;
+   background:#56b6f7;
 }
 
 .col-1 .definition{
